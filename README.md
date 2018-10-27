@@ -1,0 +1,3 @@
+posts
+------
+some posts!
